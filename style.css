@@ -1,0 +1,39 @@
+/* Common Styles */
+.common-btn{
+    background-image: linear-gradient(180deg, #3D4FF3 0%, #3543BC 100%);
+    border-radius: 10px;
+}
+.common-btn:hover{
+    background-image: linear-gradient(180deg, #FA804C 0%, #fa6525 100%);
+}
+.tomato-color{
+    color: #FA804C;
+}
+/* Navbar Styles */
+header{
+    background-color: #FFF9F4;
+}
+/* Casual Shoes Styles */
+.casual-img{
+    height: 311px;
+    width: 320px;
+}
+.card:hover{
+    background-color: #FFF9F4;
+}
+/* Seller Styles */
+.seller-img{
+    height: 82px;
+    width: 90px;
+}
+/* Footer Styles */
+footer{
+    background-color: #0B0D17;
+}
+.footer-link{
+    color: white;
+    cursor: pointer;
+}
+.footer-link:hover{
+    color: #FA804C;
+}
